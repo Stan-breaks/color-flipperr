@@ -1,0 +1,35 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+nav{
+ background-color: darkgray;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+    margin:0;
+    padding: 0;
+}
+nav li{
+    float: right;
+}
+nav li a{
+    display:block;
+    color:white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color: black;
+}
+#center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+#btn{
+float: left;
+}
