@@ -1,4 +1,4 @@
-const colors=["red","(128, 0, 128)","pink","#FFFF00"]
+const colors=["red","blue","pink","#FFFF00"];
 const btn=document.getElementById("btn");
 const span=document.getElementById("color");
 
